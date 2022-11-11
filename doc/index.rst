@@ -14,7 +14,7 @@ Welcome to Anabot's documentation!
 About Anabot
 ============
 
-Anabot is engine for automated GUI testing. It's takes XML recipe (data) as
+Anabot is an engine for automated GUI testing. It's takes XML recipe (data) as
 input and performs actions and checks (code) specified in the recipe. It's
 focused on abstracting instructions from the actual code, so that anybody
 can easily run it's own recipe without the need of knowing anything about e.g.
